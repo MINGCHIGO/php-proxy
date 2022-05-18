@@ -26,7 +26,7 @@ if(isset($_REQUEST['url'])&&!empty($_REQUEST['url'])) {
         <link rel="shortcut icon" type="image/png" href="favicon.ico"/>
         <title>Google</title>
         <style>
-        header {
+header {
     position: absolute;
     top:12px;
     right:30px;
@@ -182,29 +182,7 @@ input[type="search"]::-webkit-search-results-button,
 input[type="search"]::-webkit-search-results-decoration { display: none; }
 input[type=text]::-ms-clear {  display: none; width : 0; height: 0; }
 input[type=text]::-ms-reveal {  display: none; width : 0; height: 0; }
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+
         </style>
     </head>
     <body>
@@ -233,14 +211,6 @@ input[type=text]::-ms-reveal {  display: none; width : 0; height: 0; }
     </body>
 </html>
 
-
-
-
-
-
-
-
-  
   <?php
 }
 
